@@ -19,9 +19,4 @@ We have plotted PDF, CDF, Boxplot, Violin plots to understand which features are
 Bivariate analysis is the analysis of exactly two variables.
 We have plotted scatter plots, pair-plots to see if combinations of features are useful in classification, in this section
 
-# Observation
-
-There are no missing values in this dataset. So there is no need to do data imputation.
-The datatype of 'survival_status_after_5_years' column is integer. It has to be converted to categorical datatype.
-The values of 'survival_status_after_5_years' column are not meanigful. Hence they are mapped to 'yes' (survived after 5 years) and 'no' (not survived after 5 years)
-
+For complete observation and conclusion refer to the notebook.
